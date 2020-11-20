@@ -1,1 +1,2 @@
-this is master config-prod
+cinfig：
+  info: "master branch,springcloud-config/config-prod.yml verson=1"
