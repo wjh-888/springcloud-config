@@ -1,1 +1,2 @@
-this is master config-test
+cinfig：
+  info: "master branch,springcloud-config/config-dev.yml verson=1"
